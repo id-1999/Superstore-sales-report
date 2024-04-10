@@ -5,3 +5,7 @@ Cleaned and transformed raw data using Power Query, ensuring data accuracy and c
 The Power BI Superstore dashboard provided a centralized platform for stakeholders to monitor sales trends, identify top-performing products and regions, and track key performance indicators. 
 The interactive nature of the dashboard facilitated quick decision-making, leading to a 15% improvement in sales forecasting accuracy and a 10% increase in overall profitability within the reporting period.
 Gained insights into the importance of user-centric design in dashboard development.
+
+
+### Data Source
+Link:https://drive.google.com/drive/folders/1GBmSyeKz91Mt9lo9duQLLd_jXStbG_e7?usp=sharing
